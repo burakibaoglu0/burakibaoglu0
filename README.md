@@ -5,6 +5,8 @@
 
 - 📫 How to reach me : **b.ibaoglu@gmail.com**
 
+- ![](https://komarev.com/ghpvc/?username=burakibaoglu0&style=plastic&color=green)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahicikafiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahicikafiye" height="30" width="40" /></a>
