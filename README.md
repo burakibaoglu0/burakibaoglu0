@@ -105,16 +105,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=burakibaoglu0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Burak's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakibaoglu0&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/burakibaoglu0?style=for-the-badge&logo=github&logoColor=white&color=blueviolet&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/burakibaoglu0?style=for-the-badge&logo=github&logoColor=white&color=blueviolet&label=Total%20Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=burakibaoglu0&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=burakibaoglu0&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
 ---
